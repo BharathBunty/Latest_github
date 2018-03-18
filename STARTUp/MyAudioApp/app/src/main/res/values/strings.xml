@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAudio App</string>
+    <string name="pause">pause</string>
+    <string name="play">play</string>
+    <string name="timeline">Timeline</string>
+    <string name="volume">Volume</string>
+</resources>
